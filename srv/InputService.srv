@@ -1,0 +1,4 @@
+string axis    #one of surge, sway, heave, roll, pitch, yaw
+int32  input   #enum value of input type
+---
+bool success   #whether or not update succeeded

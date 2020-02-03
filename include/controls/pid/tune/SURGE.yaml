@@ -1,0 +1,14 @@
+#Don't edit this file unless you're sure!
+SURGE:
+  IMU_POS: [0.4,-0.24,0.14]
+  IMU_POS_TOPIC: '/yOrientation'
+  IMU_ACCEL: [0.3,0.5,-0.12]
+  IMU_ACCEL_TOPIC: 'none'
+  DEPTH: [-0.14,0.66,0.46]
+  DEPTH_TOPIC: 'none'
+  CAM_FRONT: [1,0.16,0.66]
+  CAM_FRONT_TOPIC: 'none'
+  CAM_BOTTOM: [-0.56,0.6,0.16]
+  CAM_BOTTOM_TOPIC: 'none'
+  LOCALIZE: [-1,-1,-1]
+  LOCALIZE_TOPIC: 'none'

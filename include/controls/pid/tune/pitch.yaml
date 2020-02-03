@@ -1,0 +1,14 @@
+#Don't edit this file unless you're sure!
+PITCH:
+  IMU_POS: [-1,-1,-1]
+  IMU_POS_TOPIC: 'none'
+  IMU_ACCEL: [-1,-1,-1]
+  IMU_ACCEL_TOPIC: 'none'
+  DEPTH: [-1,-1,-1]
+  DEPTH_TOPIC: 'none'
+  CAM_FRONT: [-1,-1,-1]
+  CAM_FRONT_TOPIC: 'none'
+  CAM_BOTTOM: [-1,-1,-1]
+  CAM_BOTTOM_TOPIC: 'none'
+  LOCALIZE: [-1,-1,-1]
+  LOCALIZE_TOPIC: ''
